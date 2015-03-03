@@ -1,6 +1,6 @@
 {
   "name": "Paper",
-  "plural": "papers",
+  "plural": "Papers",
   "base": "PersistedModel",
   "idInjection": true,
   "properties": {
